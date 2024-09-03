@@ -1,0 +1,37 @@
+{
+  "faturamento_mensal": {
+    "dias": [
+      {"dia": 1, "faturamento": 15000},
+      {"dia": 2, "faturamento": 17800},
+      {"dia": 3, "faturamento": 13200},
+      {"dia": 4, "faturamento": 19500},
+      {"dia": 5, "faturamento": 14200},
+      {"dia": 6, "faturamento": 0},
+      {"dia": 7, "faturamento": 0},
+      {"dia": 8, "faturamento": 17500},
+      {"dia": 9, "faturamento": 14800},
+      {"dia": 10, "faturamento": 19300},
+      {"dia": 11, "faturamento": 15200},
+      {"dia": 12, "faturamento": 18400},
+      {"dia": 13, "faturamento": 0},
+      {"dia": 14, "faturamento": 0},
+      {"dia": 15, "faturamento": 19200},
+      {"dia": 16, "faturamento": 20000},
+      {"dia": 17, "faturamento": 14900},
+      {"dia": 18, "faturamento": 18200},
+      {"dia": 19, "faturamento": 16500},
+      {"dia": 20, "faturamento": 0},
+      {"dia": 21, "faturamento": 0},
+      {"dia": 22, "faturamento": 17200},
+      {"dia": 23, "faturamento": 18500},
+      {"dia": 24, "faturamento": 16000},
+      {"dia": 25, "faturamento": 0},
+      {"dia": 26, "faturamento": 17500},
+      {"dia": 27, "faturamento": 0},
+      {"dia": 28, "faturamento": 0},
+      {"dia": 29, "faturamento": 15000},
+      {"dia": 30, "faturamento": 20000}
+    ],
+    "total_mensal": 379000
+  }
+}
